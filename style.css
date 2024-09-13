@@ -1,0 +1,21 @@
+.titulo{
+    font-family: sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    
+}
+
+.descricao{
+    font-family: sans-serif;
+    font-size: 14px;
+}
+
+img{
+    width: 25px;
+    border-image: url(aws-icon.png) 30 round;
+}
+
+div{
+    border-radius: 5px;
+    border: 1px solid rgb(207, 205, 205);
+}
